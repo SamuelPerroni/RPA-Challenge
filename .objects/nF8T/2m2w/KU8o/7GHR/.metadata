@@ -1,0 +1,17 @@
+﻿{
+  "Id": "7GHRam_-jE63QNBRHlCYCg",
+  "Reference": "z-Sj3SENPU60c5vlHdNbaw/7GHRam_-jE63QNBRHlCYCg",
+  "ParentRef": "z-Sj3SENPU60c5vlHdNbaw/KU8oyx7woE69tumlWd5BHw",
+  "Name": "Submit",
+  "Description": "Botão para submeter a proxima etapa",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-15T04:36:01.5330457Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-15T04:36:01.5330457Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

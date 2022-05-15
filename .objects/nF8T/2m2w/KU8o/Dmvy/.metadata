@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DmvyUwNCnE-1GJSWy-lwOg",
+  "Reference": "z-Sj3SENPU60c5vlHdNbaw/DmvyUwNCnE-1GJSWy-lwOg",
+  "ParentRef": "z-Sj3SENPU60c5vlHdNbaw/KU8oyx7woE69tumlWd5BHw",
+  "Name": "RoleInCompany",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-15T04:36:01.3924083Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-15T04:36:01.3924083Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

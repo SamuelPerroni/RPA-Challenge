@@ -1,0 +1,16 @@
+﻿{
+  "Id": "l6v_FSjDFUC3-tdreMWC2g",
+  "Reference": "z-Sj3SENPU60c5vlHdNbaw/l6v_FSjDFUC3-tdreMWC2g",
+  "ParentRef": "z-Sj3SENPU60c5vlHdNbaw/7R_UUFJKs02_RdgQb1wwHw",
+  "Name": "RoleInCompany",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-15T04:12:34.7417783Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-15T04:13:12.0067206Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
